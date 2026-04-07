@@ -1,0 +1,29 @@
+{
+    "username": "admin",
+    "password": "password123",
+    "id": 2,
+    "firstname" : "Naman",
+    "lastname" : "Singh",
+    "totalprice" : 124,
+    "depositpaid" : true,
+    "bookingdates" : {
+        "checkin" : "2018-01-01",
+        "checkout" : "2019-01-01"
+    },
+    "additionalneeds" : "Breakfast",
+    "updateDetails": {
+        "firstname" : "Naman",
+        "lastname" : "Singh",
+        "totalprice" : 164,
+        "depositpaid" : true,
+        "bookingdates" : {
+            "checkin" : "2020-01-01",
+            "checkout" : "2020-01-22"
+        },
+        "additionalneeds" : "Dinner"
+    },
+    "partialUpdates": {
+        "firstname" : "Shlok",
+        "lastname" : "Shlok"
+    }
+}
